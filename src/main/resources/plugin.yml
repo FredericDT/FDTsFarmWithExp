@@ -1,0 +1,6 @@
+name: FDTsFarmWithExp
+main: onl.fdt.java.minecraft.spigot.FDTsFarmWithExp.PluginMain
+version: 1.0
+commands:
+  fdtsfarmwithexp:
+    usage: /fdtsfarmwithexp <setExpAmount|registerExpBlock|unregisterExpBlock>

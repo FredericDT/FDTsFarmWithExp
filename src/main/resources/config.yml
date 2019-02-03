@@ -1,0 +1,6 @@
+ExpAmount: 3
+BlockList:
+- "minecraft:carrots[age=7]"
+- "minecraft:potatoes[age=7]"
+- "minecraft:wheat[age=7]"
+- "minecraft:beetroots[age=3]"
